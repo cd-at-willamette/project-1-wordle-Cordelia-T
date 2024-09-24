@@ -16,7 +16,7 @@ def wordle():
     def enter_action():
         # What should happen when RETURN/ENTER is pressed.
         # gw.show_message("You need to implement this method")
-        word_to_row("Sofie", 0)
+        word_to_row("Laugh", 0)
         print(word_from_row(0))
 
 
